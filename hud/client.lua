@@ -53,7 +53,7 @@ AddEventHandler("Hud:onTick", function(Status)
         drunk = status.val / 10000  
     end)
 end)
-
+-- Only shows minimap when in a vehicle
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(100)
