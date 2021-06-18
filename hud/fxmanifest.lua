@@ -4,7 +4,6 @@ game 'gta5'
 
 ui_page('html/index.html')
 
-
 files({
 	"html/script.js",
 	"html/jquery.min.js",
