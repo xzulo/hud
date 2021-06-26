@@ -3,6 +3,7 @@
 
 To make the Hunger, Thirst, and Drunk status work you need to change the following in esx_status/client/main.lua:
 
+If you plan to use the drunk system, you need to have esx_optionalneeds
 
 TriggerEvent('esx_statushud:onTick', GetStatusData(true)) 
 
@@ -28,6 +29,7 @@ EXAMPLE:
 			Citizen.Wait(Config.TickTime)
 		end
 	end)
+
 
 ![Preview](ss.png)
 
