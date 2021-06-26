@@ -1,4 +1,4 @@
-# A simple HUD for ESX with Health, Armor, Hunger, Thirst, Drunk, Oxygen.
+# A simple HUD for ESX 1.2 with Health, Armor, Hunger, Thirst, Drunk, Oxygen.
 
 
 To make the Hunger, Thirst, and Drunk status work you need to change the following in esx_status/client/main.lua:
