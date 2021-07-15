@@ -1,4 +1,4 @@
-# A simple HUD for ESX 1.2 with Health, Armor, Hunger, Thirst, Drunk, Oxygen.
+# A simple HUD for ESX with Health, Armor, Hunger, Thirst, Drunk, Oxygen.
 
 If you plan to use the drunk system, you need to have esx_optionalneeds
 
